@@ -1,4 +1,7 @@
 # To find maximum numbers from the users 5 numbers by using if else condition:
+# First we need to chack number1 is bigger than number2, if yes, then check number1 greater than number2, if yes, again checks with number4
+  # if yes, again checks with number5. All the conditions are satisfied then number1 is maximum number.
+  # or else it compete with other numbers.
 
 
 number1 = int(input('Enter number1: '))

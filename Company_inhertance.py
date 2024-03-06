@@ -1,17 +1,17 @@
-# Task - Some companies collecting their employees details with some conditions
-# Companies - TCS, HCL, Infy
-# Company need employees id, name, salary, location, age
-# Condition for TCS: Specify a salary with 2 floating point
+''' Task - Some companies collecting their employees details with some conditions
+ Companies - TCS, HCL, Infy
+ Company need employees id, name, salary, location, age
+ Condition for TCS: Specify a salary with 2 floating point
                      Show location = siruseri( By default), chennai
                      date of birth
                      Show Id with prefix 'TCS23' 
-# Conditions for HCL: Show first name only if they have firstname, last name
-                      Show the salary after 10 percent of detection
-                      Show gender, Blood Group, Date of Birth
-                      Show Id with prefix 'HCL23'
-# Conditions for Infy: Show Experience, Mobile number, Address, Aadhar number
-                       Show the salary as per annual salary
-                       Show Id with prefix 'Infy23' 
+ Conditions for HCL: Show first name only if they have firstname, last name
+                     Show the salary after 10 percent of detection
+                     Show gender, Blood Group, Date of Birth
+                     Show Id with prefix 'HCL23'
+ Conditions for Infy: Show Experience, Mobile number, Address, Aadhar number
+                     Show the salary as per annual salary
+                     Show Id with prefix 'Infy23' '''
                      
 #Code
 class emp:

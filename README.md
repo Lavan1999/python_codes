@@ -1,4 +1,4 @@
 # python_codes
-# Using if else statement for finding max number
-# Without using buildin function like max()
-
+# Using if else statement for finding max number & Without using buildin function like max()
+# Finding max number using if else condition.py
+#
